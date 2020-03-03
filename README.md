@@ -9,7 +9,7 @@ O período no qual as despesas mensais são catalogadas e divididas entre os atu
 
 O pagador de uma determinada despesa deve ter em mente que, caso esteja com saldo positivo, apenas receberá o reembolso deste valor no mês seguinte à despesa. Caso o responsável não deseje ou possa arcar com a despesa, é sugerido que converse com os demais membros, de preferência os associados, para se encontrar uma forma de efetuar a compra ou pagamento pendente. Há ainda a possibilidade de se utilizar o caixa do co-working para pagamento de uma despesa, em casos decididos pelos associados.
 
-### Catalogamento de despesas
+### Catálogo de despesas
 
 A atual ferramenta utilizada para catalogar as despesas é o [SplitWise][splitwise]. Todos os membros do co-working tem permissão de leitura e escrita, mas se faz necessário que alterações sejam realizadas por dois ou mais membros, a fim de diminuir a chance de ocorrerem erros no processo.
 
