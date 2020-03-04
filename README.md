@@ -7,7 +7,7 @@ Este documento tem por objetivo registrar decisões tomadas em relação a admin
 
 O período no qual as despesas mensais são catalogadas e divididas entre os atuais membros presentes no co-working compreende o primeiro ao último dia do mês. Os pagamentos são realizados no mês seguinte ao mês catalogado.
 
-O pagador de uma determinada despesa deve ter em mente que, caso esteja com saldo positivo, apenas receberá o reembolso deste valor no mês seguinte à despesa. Caso o responsável não deseje ou possa arcar com a despesa, é sugerido que converse com os demais membros, de preferência os associados, para se encontrar uma forma de efetuar a compra ou pagamento pendente. Há ainda a possibilidade de se utilizar o caixa do co-working para pagamento de uma despesa, em casos decididos pelos associados.
+O pagador de uma determinada despesa deve ter em mente que, caso esteja com saldo positivo, apenas receberá o reembolso deste valor no mês seguinte à despesa. Caso o responsável não deseje ou não possa arcar com a despesa, é sugerido que converse com os demais membros, de preferência os associados, para se encontrar uma forma de efetuar a compra ou pagamento pendente. Há ainda a possibilidade de se utilizar o caixa do co-working para pagamento de uma despesa, em casos decididos pelos associados.
 
 ### Catálogo de despesas
 
